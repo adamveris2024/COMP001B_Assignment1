@@ -5,3 +5,13 @@ h1 {
 .question-text {
     font-weight: bold;
 }
+
+#copyright-text {
+    font-size: small;
+}
+
+img {
+    border: 2px solid #000000;
+    padding: 5px;
+    margin: 3px;
+}
